@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Michelle",
+    "picture": "images/michelle.jpg",
+    "empid": 1,
+    "breakviolation": 0,
+    "ethaddress": "0xf17f52151EbEF6C7334FAD080c5704D77216b732"
+  },
+  {
+    "id": 1,
+    "name": "Elon",
+    "picture": "images/elon.jpg",
+    "empid": 2,
+    "breakviolation": 0,
+    "ethaddress": "0xC5fdf4076b8F3A5357c5E395ab970B5B54098Fef"
+  },
+  {
+    "id": 2,
+    "name": "Trump",
+    "picture": "images/trump.jpg",
+    "empid": 3,
+    "breakviolation": 0,
+    "ethaddress": "0x821aEa9a577a9b44299B9c15c88cf3087F3b5544"
+  }
+]
